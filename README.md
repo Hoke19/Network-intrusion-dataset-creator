@@ -101,7 +101,8 @@ You can find the original research paper on [researchgate](https://www.researchg
 1. Added command line options
 1. Added IPv6 to one of the detectors.  Can't remember which one
 1. Migrated from multi-threaded to multi-processors to make use of multiple cores.  A way to get around the GIL
-
+## Additions to the fork project
+1. The code is customize to 6LowPAN mesh network feature extraction.
 ## References
 1. Sliding time windows for network analysis https://www.youtube.com/watch?v=b3MaxbAAdDw
     * http://joe.blog.freemansoft.com/2021/04/network-intrusion-features-via-sliding.html
